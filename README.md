@@ -6,7 +6,7 @@
 Our mission is to develop and deploy multiple AI agents using Crew AI or AutoGen for top-tier email content personalization.
 
 
-- **Searching Agent **: 🌐 Real-time internet search to explore websites, like (COMET Estimating LLC) (Any name like Mustafa Shoukat) and other platforms.
+- **Searching Agent**: 🌐 Real-time internet search to explore websites, like (COMET Estimating LLC) (Any name like Mustafa Shoukat) and other platforms.
 - **NER Agent**: 🧠 Named Entity Recognition for extracting important information.
 - **Sales Agent 3**: 💼 Expert on our company and its offerings.
 - **Lead Sales Agent**: 🎯 Converts leads into actionable customers, HR, or decision-makers.
