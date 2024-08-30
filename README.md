@@ -62,7 +62,7 @@ Our mission is to develop and deploy multiple AI agents using Crew AI or AutoGen
 
 - A series of personalized email drafts crafted for each lead (Client or Recruiter), addressing their unique needs and aligning with their company culture—let’s make those conversions happen!
 
-# Let's make it happen. 4 Minds only one Project. 
+# Let's make it happen. 5 Minds only one Project. 
 
 
 
