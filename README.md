@@ -75,5 +75,3 @@ Our mission is to develop and deploy multiple AI agents using Crew AI or AutoGen
 | Noor                 | LLM Finder, Help in LLMs Integration 🔍 | Identifying LLMs, preparing video presentation                         |
 | Muhammad Faisal      | Presentation Creator 🎤            | Creating non-technical slides and presentations                        |
 | Aamir Shah           | Testing Product 🕵️‍♂️             | Conducting end-user tests, gathering user data                         | 
-
-This version is both concise and includes the requested emojis.
