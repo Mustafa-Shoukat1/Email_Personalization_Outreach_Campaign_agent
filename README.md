@@ -2,8 +2,8 @@
 
 ## Tools for a Customer Outreach Campaign
 
-- **Agent 1**: 🌐 Real-time internet search to explore websites, including COMET Estimating LLC and other platforms.
-- **NER**: 🧠 Named Entity Recognition for extracting important information.
+- **Searching Agent **: 🌐 Real-time internet search to explore websites, like (COMET Estimating LLC) (Any name like Mustafa Shoukat) and other platforms.
+- **NER Agent**: 🧠 Named Entity Recognition for extracting important information.
 - **Sales Agent 3**: 💼 Expert on our company and its offerings.
 - **Lead Sales Agent**: 🎯 Converts leads into actionable customers, HR, or decision-makers.
 - **Email Writer Agent**: ✉️ Transforms lead data into a personalized, actionable email for HR or decision-makers.
@@ -15,7 +15,7 @@
 
 ## Prototype and Workflow (Blueprint) 📋
 
-### Required Tools and Frameworks:
+### Required Back End Tools and Frameworks:
 
 - **Version Control**: Git and VS Code for smooth collaboration.
 - **Backend**: Flask to power the engine.
