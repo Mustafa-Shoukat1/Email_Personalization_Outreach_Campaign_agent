@@ -63,3 +63,17 @@ Our mission is to develop and deploy multiple AI agents using Crew AI or AutoGen
 - A series of personalized email drafts crafted for each lead (Client or Recruiter), addressing their unique needs and aligning with their company culture—let’s make those conversions happen!
 
 # Let's make it happen. 4 Minds only one Project. 
+
+
+
+
+
+| **Team Member**      | **Role**                            | **Responsibilities**                                                 |
+|----------------------|-------------------------------------|-----------------------------------------------------------------------|
+| Mustafa Shoukat      | Team Lead 🏆                        | Overseeing the project, user input, AI agent integration               |
+| Amina                | Frontend Developer 🎨              | Designing frontend, creating contributor section                      |
+| Noor                 | LLM Finder, Help in LLMs Integration 🔍 | Identifying LLMs, preparing video presentation                         |
+| Muhammad Faisal      | Presentation Creator 🎤            | Creating non-technical slides and presentations                        |
+| Aamir Shah           | Testing Product 🕵️‍♂️             | Conducting end-user tests, gathering user data                         | 
+
+This version is both concise and includes the requested emojis.
