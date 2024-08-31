@@ -7,6 +7,9 @@
 
 Our mission is to develop and deploy multiple AI agents using Crew AI or AutoGen for top-tier email content personalization. 
 
+
+Problem Statement: - Teach non-tech persons like qt explain the problem and then solve the problem.
+
 - **Searching Agent**: 🌐 Real-time internet search to explore websites, like (COMET Estimating LLC) (Any name like Mustafa Shoukat) and other platforms.
 - **NER Agent**: 🧠 Named Entity Recognition for extracting important information.
 - **Sales Agent 3**: 💼 Expert on our company and its offerings.
@@ -20,7 +23,7 @@ Our mission is to develop and deploy multiple AI agents using Crew AI or AutoGen
 
 ## Prototype and Workflow (Blueprint) 📋
 
-### Required Back End Tools and Frameworks:
+### Required Back-End Tools and Frameworks:
 
 - **Version Control**: Git and VS Code for smooth collaboration.
 - **Backend**: Flask to power the engine.
@@ -35,7 +38,7 @@ Our mission is to develop and deploy multiple AI agents using Crew AI or AutoGen
 
 ### Additional Work Details 🔧
 
-- **Muhammad Faisal's Work**: 🎤 Create slides and presentations to present our audience in completion.
+- **Muhammad Faisal's Work**: 🎤 Create slides and presentations to present to our audience in completion.
 - **Aamir Shah's Work**: 🕵️‍♂️ Conduct end-user tests and gather insights to pinpoint our product's potential users.
 - **Noor and Mustafa's Work**: 🎥 Prepare and present a video presentation and slides that showcase our team's hard work and vision.
 
@@ -66,10 +69,31 @@ Our mission is to develop and deploy multiple AI agents using Crew AI or AutoGen
 # Let's make it happen. 5 Minds, one Project. 💪
 
 
-| **Team Member**      | **Role**                            | **Responsibilities**                                                 |
+| **Team Member**      | **Role**                            | **Responsibilities**                                                  |
 |----------------------|-------------------------------------|-----------------------------------------------------------------------|
-| Mustafa Shoukat      | Team Lead 🏆                        | Overseeing the project, user input, AI agent integration               |
-| Amina                | Frontend Developer 🎨              | Designing frontend, creating contributor section                      |
-| Noor                 | LLM Finder, Help in LLMs Integration 🔍 | Identifying LLMs, preparing video presentation                         |
-| Muhammad Faisal      | Presentation Creator 🎤            | Creating slides and presentations                        |
-| Aamir Shah           | Testing Product 🕵️‍♂️             | Finding end-users for our product, testing user experience             |
+| Mustafa Shoukat      | Team Lead 🏆                        | Overseeing the project, user input, AI agent integration  VS code,    |
+| Amina                | Frontend Developer 🎨              | Designing frontend, creating contributor section.                      |
+| Noor                 | LLM Finder, Help in LLMs Integration 🔍 | Identifying LLMs, Preparing video presentation                    |
+| Muhammad Faisal      | Presentation Creator 🎤            | Creating slides and Presentations                                      |
+| Aamir Shah           | Testing Product 🕵️‍♂️             | Finding End-users for our product, testing user experience                 |
+
+
+
+Timeline  == No Deadline 
+Google Sheets and the final link
+Video Smapels Youtube 
+Doubt: - For the video presentation.
+
+
+DOC: No Coding only performance matters check out the front end more and put more focus.
+
+
+They will see our: - Idea, Efficiency, and accuracy.
+We have more time than others.
+
+
+Now front then on board.
+
+
+
+
