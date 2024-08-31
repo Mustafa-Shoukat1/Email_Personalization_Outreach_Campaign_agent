@@ -94,6 +94,21 @@ We have more time than others.
 
 Now front then on board.
 
+---------------------------------------------------------------
+Question: Aamir 
+Problem Statement: Audience:- Aamir
+
+Mustafa: Bot:- Divide my Part with Gule Noor
+
+Faisal: -  Application
+Team: - Amina
+
+
+
+
+
+
+
 
 
 
